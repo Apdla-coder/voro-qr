@@ -1,5 +1,5 @@
 {
-  "name": "voro-qr-worker",
+  "name": "voro-qr1",
   "compatibility_date": "2026-01-12",
   "main": "worker.js"
 }
